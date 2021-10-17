@@ -53,10 +53,6 @@ body{
     text-align: center;
 }
 
-.container{
-    margin: 20px 20px;
-}
-
 .item-card{
     display: inline-block;
     width: 330px;
