@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+body{
+    font-size: 20px;
+    font-family: Oswald, Arial, Helvetica, sans-serif;
+}
+
+.header-footer{
+    background-color:#baa6e4;
+    list-style:none;
+    text-align: center;
+    height: 60px;
+}
+
+.menu-item{
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.main-header{
+    text-align:center;
+}
+
+.foto{
+    display: block;
+    margin: auto;
+}
+
+.laz-font{
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    color:mediumpurple;
+}
+
+.laz{
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu-h4{
+    text-align: center;
+}
+
+.menu-prod{
+    text-align: center;
+}
