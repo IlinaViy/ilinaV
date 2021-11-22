@@ -4,5 +4,5 @@ SELECT login from account WHERE id = 3;
 
 SELECT DISTINCT (age) FROM account;
 
-
+SELECT sum (kol) as 'total_item' FROM product;
 
