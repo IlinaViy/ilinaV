@@ -1,0 +1,8 @@
+UPDATE 'order' SET data = substr(data, 7, 4) || '-' || substr(data, 4, 2) || '-' || substr(data, 1, 2)
+
+SELECT login from account WHERE id = 3; 
+
+SELECT DISTINCT (age) FROM account;
+
+
+
