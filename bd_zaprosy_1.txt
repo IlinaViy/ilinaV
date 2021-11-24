@@ -6,3 +6,4 @@ SELECT DISTINCT (age) FROM account;
 
 SELECT sum (kol) as 'total_item' FROM product;
 
+SELECT AVG(age) FROM account WHERE data_reg >= date('now', '-2 months')
